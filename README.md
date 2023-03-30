@@ -13,9 +13,9 @@ team has classified all customers into 4 segments (A, B, C, D ). Then, they perf
 
 You are required to help the manager to predict the right group of the new customers.
 
-## Neural Network Mo
+## Neural Network Model
 ![228421311-20c18818-70a5-4be2-9b02-d29cd5d504ac](https://user-images.githubusercontent.com/120204455/228911558-37dfca33-87ea-4d0d-bad1-8f693a10786c.png)
-del
+
 
 
 
@@ -30,11 +30,11 @@ Split the data to training and testing
 ### STEP 3:
 Train the data and then predict using Tensorflow
 
-## PROGRAM
+## PROGRAM:
+```
 Name: charumathi R
 Refno: 212222240021
 
-```
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
