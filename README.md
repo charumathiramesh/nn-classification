@@ -18,7 +18,7 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 
-### STEP 1:
+### STEP 1:Load the csv file and then use the preprocessing steps to clean the data
 
 ### STEP 2:
 
@@ -27,7 +27,8 @@ Write your own steps
 
 ## PROGRAM
 
-Include your code here
+![228419338-9530f711-63cf-421c-9472-0d1504bd25fd](https://user-images.githubusercontent.com/120204455/228890571-df1d9599-7898-4cdc-bd26-3a03d8a6ec5f.png)
+
 
 ## Dataset Information
 
